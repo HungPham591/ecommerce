@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id_branch": 0,
+      "name_branch": "Điện tử Long Xuyên",
+      "address_branch": "TP Long Xuyên",
+      "tel_branch": "+8425223630",
+      "logo_branch": "https://cdn.thukyluat.vn/nhch-images//CauHoi_Hinh/9eb6abaa-8cda-456c-ad66-26ba4da23ffe.jpg"
+    },
+    {
+      "id_branch": 1,
+      "name_branch": "Điện thoại Phúc Hưng",
+      "address_branch": "Cao Lãnh",
+      "tel_branch": "+8425223630",
+      "logo_branch": "https://cdn.thukyluat.vn/nhch-images//CauHoi_Hinh/9eb6abaa-8cda-456c-ad66-26ba4da23ffe.jpg"
+    },
+    {
+      "id_branch": 2,
+      "name_branch": "Điện Xanh",
+      "address_branch": "Quận 4, TP HCM",
+      "tel_branch": "+8425223630",
+      "logo_branch": "https://cdn.thukyluat.vn/nhch-images//CauHoi_Hinh/9eb6abaa-8cda-456c-ad66-26ba4da23ffe.jpg"
+    },
+    {
+      "id_branch": 3,
+      "name_branch": "Nhà Xanh Hoàn Kiếm",
+      "address_branch": "Hồ Hoàn Kiếm, Hà Nội",
+      "tel_branch": "+8428382839",
+      "logo_branch": "https://cdn.thukyluat.vn/nhch-images//CauHoi_Hinh/9eb6abaa-8cda-456c-ad66-26ba4da23ffe.jpg"
+    },
+    {
+      "id_branch": 4,
+      "name_branch": "Phúc Long",
+      "address_branch": "Rạch Giá, Ang Giang",
+      "tel_branch": "+8425223630",
+      "logo_branch": "https://cdn.thukyluat.vn/nhch-images//CauHoi_Hinh/9eb6abaa-8cda-456c-ad66-26ba4da23ffe.jpg"
+    }
+  ]
+}

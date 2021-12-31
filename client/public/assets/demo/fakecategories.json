@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "id_catagory": 1,
+            "name_catagory": "Phone"
+        },{
+            "id_catagory": 2,
+            "name_catagory": "Laptop"
+        },{
+            "id_catagory": 3,
+            "name_catagory": "Game"
+        }
+    ]
+}

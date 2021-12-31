@@ -1,0 +1,26 @@
+.background-form {
+  min-height: 100vh;
+  &::before {
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    background: linear-gradient(
+        115deg,
+        // rgba(58, 58, 158, 0.8),
+        // rgba(136, 136, 206, 0.7)
+        rgba(19, 0, 87, 0.8),
+        rgba(116, 70, 241, 0.7)
+      ),
+      url("http://127.0.0.1:5000/images/app/auth-background.png");
+    background-size: cover;
+    background-position: center;
+  }
+}
+
+.signup-form .ant-form-item-label > label{
+  font-weight: 500;
+}

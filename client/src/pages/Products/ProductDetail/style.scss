@@ -1,0 +1,21 @@
+.hori-flex {
+  display: flex;
+  flex-direction: column;
+  
+  > div {
+    margin-right: 32px;
+    margin-bottom: 16px;
+  }
+}
+
+.ant-btn-round {
+  padding: 4px 32px;
+}
+.description-product {
+  table {
+    max-width: 500px;
+    tr:nth-child(odd) {
+      background-color: #dddddd;
+    }
+  }
+}

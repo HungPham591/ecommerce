@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id_user": 0,
+      "name_user": "Nguyễn Hùng",
+      "password_user": "123456",
+      "email_user": "vip_prop@gmail.com",
+      "tel_user": "0932152545",
+      "address_user": "Lào - cai",
+      "roles": [{"id": 2, "name": "User"},{ "id": 0, "name": "Supper" }, { "id": 1, "name": "Admin"}]
+    },
+    {
+      "id_user": 1,
+      "name_user": "Tha Hóa",
+      "password_user": "123456232",
+      "email_user": "tha_hoap@gmail.com",
+      "tel_user": "+84023623252",
+      "address_user": "Mỹ - Tho",
+      "roles": [{ "id": 0, "name": "Supper" }, { "id": 1, "name": "Admin"}]
+    },
+    {
+      "id_user": 2,
+      "name_user": "Hào Sảng",
+      "password_user": "jashdaj",
+      "email_user": "anhhaosang@gmail.com",
+      "tel_user": null,
+      "address_user": "Hà Nội",
+      "roles": [{ "id": 0, "name": "Supper" }, { "id": 1, "name": "Admin"}]
+    },
+    {
+      "id_user": 3,
+      "name_user": "Dọc Liệp",
+      "password_user": "dasdasdd",
+      "email_user": "vip_prop@gmail.com",
+      "tel_user": "+84023623252",
+      "address_user": "TP HCM",
+      "roles": [{ "id": 0, "name": "Supper" }]
+    },
+    {
+      "id_user": 4,
+      "name_user": "Jang Mi",
+      "password_user": "3ee3e3e3e3",
+      "email_user": "vip_prop@gmail.com",
+      "tel_user": "+84023623252",
+      "address_user": "Đông Ti Mo",
+      "roles": [{"id": 2, "name": "User"},{ "id": 0, "name": "Supper" }]
+    },
+    {
+      "id_user": 5,
+      "name_user": "Mỹ chi",
+      "password_user": "lklklklkad",
+      "email_user": "vip_prop@gmail.com",
+      "tel_user": "+84023623252",
+      "address_user": "Paracetamon",
+      "roles": [{"id": 2, "name": "User"},{ "id": 0, "name": "Supper" }]
+    }
+  ]
+}

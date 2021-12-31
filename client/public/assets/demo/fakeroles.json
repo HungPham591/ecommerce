@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id_role": 0,
+      "name_role": "Siêu quản trị",
+      "description": "Toàn quyền quản trị trang, quản lý về người dùng, sản phẩm, danh mục, chi nhánh, đơn đặt hàng -- và hơn thế nữa."
+    },
+    {
+      "id_role": 1,
+      "name_role": "Quản trị viên",
+      "description": "Quản lý về sản phẩm, danh mục, chi nhánh, đơn đặt hàng, thanh toán, vv."
+    },
+    {
+      "id_role": 2,
+      "name_role": "Người dùng",
+      "description": "Chỉ có quyền truy cập, thêm giỏ hàng, mua và thanh toán sản phẩm."
+    }
+  ]
+}

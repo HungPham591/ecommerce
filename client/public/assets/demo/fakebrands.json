@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "shoppee"
+        },{
+            "id": 2,
+            "name": "tiki"
+        },{
+            "id": 3,
+            "name": "nintendo"
+        }
+    ]
+}

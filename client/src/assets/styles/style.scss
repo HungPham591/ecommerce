@@ -1,0 +1,101 @@
+// from global style
+@import "color";
+
+// from the components
+@import "mainlayout/sidebar";
+@import "mainlayout/header";
+
+* {
+    list-style-type: none;
+    align-content: center;
+    box-sizing: border-box;
+}
+a:hover {
+    text-decoration: none;
+}
+ul {
+    padding: 0px;
+}
+.sub-text {
+    font-size: 0.75em;
+}
+.aligned-flex  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.horver_cursor:hover {
+    cursor:pointer;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    border-radius: 32px;;
+}
+
+.ant-select-selection-item {
+  font-weight: 500;
+}
+
+.ant-statistic-content-value {
+    font-size: 20px;
+}
+.ant-statistic-content {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+.ant-descriptions-item-container .ant-descriptions-item-content{
+  font-weight: 500;
+}
+
+// for product
+.product-list {
+    .ant-col {
+      height: 100%;
+      padding-bottom: 1rem;
+      .ant-list-item {
+        border-radius: 8px;
+        overflow: hidden;
+        height: 100%;
+        &:hover img {
+          transform: translateY(-2%);
+        }
+  
+        .ant-card {
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          .ant-card-cover {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            img {
+              transition: transform 0.3s;
+            }
+          }
+          .ant-card-body {
+            padding-top: 8px;
+            .price {
+              font-weight: bold;
+              font-size: 1.3rem;
+            }
+            button {
+              margin-top: 10px;
+              border-radius: 5px;
+            }
+          }
+        }
+      }
+    }
+  }
+  .ant-carousel .slick-dots li button {
+    background-color: rgb(43, 43, 43);
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  .ant-carousel .slick-dots li.slick-active button {
+    background-color: black;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id_product": 1,
+      "brand": {
+        "id_brand": 1,
+        "name_brand": "tiki"
+      },
+      "category": {
+        "id_category": 1,
+        "name_category": "Phone"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 50.5,
+      "image": null
+    },
+    {
+      "id_product": 2,
+      "brand": {
+        "id_brand": 1,
+        "name_brand": "tiki"
+      },
+      "category": {
+        "id_category": 1,
+        "name_category": "Phone"
+      },
+      "name_product": "San pham 2",
+      "description": "description 2",
+      "price": 40,
+      "image": null
+    },
+    {
+      "id_product": 3,
+      "brand": {
+        "id_brand": 1,
+        "name_brand": "tiki"
+      },
+      "category": {
+        "id_category": 1,
+        "name_category": "Phone"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 15,
+      "image": null
+    },
+    {
+      "id_product": 4,
+      "brand": {
+        "id_brand": 2,
+        "name_brand": "nintendo"
+      },
+      "category": {
+        "id_category": 2,
+        "name_category": "Game"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 50.52,
+      "image": null
+    },
+    {
+      "id_product": 5,
+      "brand": {
+        "id_brand": 2,
+        "name_brand": "nintendo"
+      },
+      "category": {
+        "id_category": 2,
+        "name_category": "Game"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 50.46,
+      "image": null
+    },
+    {
+      "id_product": 6,
+      "brand": {
+        "id_brand": 2,
+        "name_brand": "nintendo"
+      },
+      "category": {
+        "id_category": 2,
+        "name_category": "Game"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 100,
+      "image": null
+    },
+    {
+      "id_product": 7,
+      "brand": {
+        "id_brand": 3,
+        "name_brand": "shoppee"
+      },
+      "category": {
+        "id_category": 3,
+        "name_category": "Laptop"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 45,
+      "image": null
+    },
+    {
+      "id_product": 8,
+      "brand": {
+        "id_brand": 3,
+        "name_brand": "shoppee"
+      },
+      "category": {
+        "id_category": 3,
+        "name_category": "Laptop"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 12,
+      "image": null
+    },
+    {
+      "id_product": 9,
+      "brand": {
+        "id_brand": 3,
+        "name_brand": "shoppee"
+      },
+      "category": {
+        "id_category": 3,
+        "name_category": "Laptop"
+      },
+      "name_product": "San pham 1",
+      "description": "description 1",
+      "price": 15.3,
+      "image": null
+    }
+  ]
+}
